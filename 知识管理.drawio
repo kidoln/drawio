@@ -1,31 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T15:45:25.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="fSPPGFbMzuPZtgHKREDK" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T16:03:36.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="2d-2qn1tL5T2BrVm8dGh" version="16.5.3" type="github">
   <diagram id="lODO2Ho19lS363PkOUxg" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Elu3GBamNisNBWZrPOnw-19" value="这是第一个" style="swimlane;startSize=20;horizontal=1;containerType=tree;swimlaneHead=0;swimlaneBody=0;noLabel=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="31" width="830" height="549" as="geometry" />
+          <mxGeometry x="30" y="31" width="830" height="479" as="geometry" />
         </mxCell>
         <mxCell id="Elu3GBamNisNBWZrPOnw-20" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;rounded=0;arcSize=40;" parent="Elu3GBamNisNBWZrPOnw-19" source="Elu3GBamNisNBWZrPOnw-24" target="Elu3GBamNisNBWZrPOnw-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DxxxkKUG97s_HWiAUXKt-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#000000;elbow=vertical;" parent="Elu3GBamNisNBWZrPOnw-19" source="Elu3GBamNisNBWZrPOnw-24" target="DxxxkKUG97s_HWiAUXKt-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="108" />
-              <mxPoint x="80" y="203" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Elu3GBamNisNBWZrPOnw-24" value="元知识" style="swimlane;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);fillColor=#A9C4EB;html=1;container=0;startSize=23;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
-          <mxGeometry x="120" y="40" width="170" height="90" as="geometry" />
+          <mxGeometry x="120" y="40" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-12" value="&lt;div&gt;元知识是“&lt;b&gt;知识的知识&lt;/b&gt;”，&lt;/div&gt;&lt;div&gt;是知识的 mate 信息&lt;/div&gt;&lt;div&gt;用来定义知识的存储、&lt;/div&gt;&lt;div&gt;分类、优先级、合法性等&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Elu3GBamNisNBWZrPOnw-24" vertex="1">
           <mxGeometry x="10" y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Elu3GBamNisNBWZrPOnw-25" value="schema" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#fff2cc;strokeColor=#d6b656;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
-          <mxGeometry x="370" y="40" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-10" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;rounded=0;arcSize=40;" parent="Elu3GBamNisNBWZrPOnw-19" source="Elu3GBamNisNBWZrPOnw-24" target="DxxxkKUG97s_HWiAUXKt-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -33,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-11" value="规则" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#fff2cc;strokeColor=#d6b656;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
-          <mxGeometry x="370" y="80" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-14" value="" style="edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;segment=10;rounded=0;jumpSize=6;arcSize=40;" parent="Elu3GBamNisNBWZrPOnw-19" source="Elu3GBamNisNBWZrPOnw-24" target="DxxxkKUG97s_HWiAUXKt-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -41,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-15" value="值域" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fillColor=#fff2cc;strokeColor=#d6b656;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
-          <mxGeometry x="370" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="120" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-16" value="&lt;div&gt;eg：注射类药物，要给出溶媒内容&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontColor=#000000;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
           <mxGeometry x="490" y="75" width="210" height="20" as="geometry" />
@@ -76,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-41" value="&lt;div&gt;控制、约束、保障质量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
-          <mxGeometry x="80" y="140" width="140" height="20" as="geometry" />
+          <mxGeometry x="80" y="150" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-42" value="三元组图谱" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
           <mxGeometry x="530" y="164" width="100" height="21" as="geometry" />
@@ -114,16 +106,6 @@
         <mxCell id="DxxxkKUG97s_HWiAUXKt-57" value="HData 中的数据" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="DxxxkKUG97s_HWiAUXKt-56" vertex="1">
           <mxGeometry x="10" y="40" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DxxxkKUG97s_HWiAUXKt-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;elbow=vertical;" parent="Elu3GBamNisNBWZrPOnw-19" source="DxxxkKUG97s_HWiAUXKt-21" target="DxxxkKUG97s_HWiAUXKt-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="95" as="sourcePoint" />
-            <mxPoint x="130" y="235" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="248" />
-              <mxPoint x="80" y="355" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DxxxkKUG97s_HWiAUXKt-59" value="&lt;div&gt;质检、归一、标准化&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="Elu3GBamNisNBWZrPOnw-19" vertex="1">
           <mxGeometry x="90" y="289" width="120" height="20" as="geometry" />
         </mxCell>
@@ -134,6 +116,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="256" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dQ_sZXhrT5kV8hx1NSOp-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=7;arrowHead=40;dx2=15;flipV=1;" vertex="1" parent="Elu3GBamNisNBWZrPOnw-19">
+          <mxGeometry x="60" y="254" width="60" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ_sZXhrT5kV8hx1NSOp-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=7;arrowHead=40;dx2=15;flipV=1;" vertex="1" parent="Elu3GBamNisNBWZrPOnw-19">
+          <mxGeometry x="60" y="119" width="60" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
